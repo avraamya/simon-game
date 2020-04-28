@@ -1,0 +1,66 @@
+#blue {
+  display: inline-block;
+  margin: 10px 10px 10px 10px;
+  width: 300px;
+  height: 300px;
+  background-color: blue;
+}
+
+#blue:hover {
+  opacity: 1;
+}
+
+#red {
+  display: inline-block;
+  margin: 10px 10px 10px 10px;
+  width: 300px;
+  height: 300px;
+  background-color: red;
+}
+
+#red:hover {
+  opacity: 1;
+}
+
+#yellow{
+  display: inline-block;
+  margin: 10px 10px 10px 10px;
+  width: 300px;
+  height: 300px;
+  background-color: yellow;
+}
+
+#yellow:hover {
+  opacity: 1;
+}
+
+#green {
+  display: inline-block;
+  margin: 10px 10px 10px 10px;
+  width: 300px;
+  height: 300px;
+  background-color: green;
+}
+
+#green:hover {
+  opacity: 1;
+}
+
+#start {
+  display: block;
+  width: 300px;
+  height: 300px;
+  margin: 10px 10px 10px 10px;
+}
+
+.opa {
+  opacity: 0.5;
+}
+
+#score {
+  display: inline-block;
+  margin: 10px 10px 10px 10px;
+  width: 300px;
+  height: 300px;
+  background-color: sandybrown;
+}
